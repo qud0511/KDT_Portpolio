@@ -61,3 +61,7 @@
 ## Project 15. 기업연계 프로젝트(T3Q) ([링크](https://aihunmin-edu.t3q.ai/school))
 - 실시간 객체 인식(Yolo V5)을 통한 이륜차 위험요소 탐지
 <img src="https://github.com/user-attachments/assets/ff3bd550-c729-4ed6-9edf-f9c5f597fef2" width="500px">
+
+## 경북대학교 SW해커톤
+- 딥러닝을 통한 생활폐기물 분류 학습
+
