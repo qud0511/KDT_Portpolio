@@ -10,7 +10,7 @@
 - 2015-2019 화재건수 분석
 <img src="https://github.com/user-attachments/assets/60c6a2f7-6830-4a71-a507-52a3b24206b3" width="500px">
 
-### Project 3. Data Analysis
+### Project 3. 공공데이터 분석
 - 관광 데이터 분석
 <img src="https://github.com/user-attachments/assets/7affbebc-0cc3-47c8-a9b9-911129393841" width="500px">
 
@@ -32,30 +32,32 @@
 
 
 
-### Project 
-- 
-<img src="" width="500px">
+### Project 8. R & Quarto ([링크](https://kry1126.quarto.pub/team4_blue/SBR_ds_Salary.html))
+- 대출 상환 데이터 분석
+<img src="https://github.com/user-attachments/assets/5a1ee863-62f0-4851-b96e-efd715e36f5b" width="500px">
 
-### Project 
-- 
-<img src="" width="500px">
+### Project 9. R 데이터 시각화 ([링크](https://qud0511.shinyapps.io/PBJ_Baseball_Shiny/))
+- KBO 리그 전적 분석
+<img src="https://github.com/user-attachments/assets/89dcf9ff-781e-487d-b40b-545534780857" width="500px">
 
-### Project 
-- 
-<img src="" width="500px">
-
-### Project 
-- 
-<img src="" width="500px">
-
-
-### Project 10. Tableau [링크](https://public.tableau.com/app/profile/.54344548/viz/10_16617472043020/1_1)
+### Project 10. Tableau ([링크](https://public.tableau.com/app/profile/.54344548/viz/10_16617472043020/1_1))
 - 동물보호관리시스템 현황 분석(동물복지산업, 동물치료소)
 <img src="https://github.com/user-attachments/assets/3183d423-d1e6-471d-adb7-eec21b178f5a" width="500px">
 
 ### Project 12. Deep Learning
 - 딥러닝을 활용한 KMNIST 중세 일본어 문자 인식
 <img src="https://github.com/user-attachments/assets/06656556-0c13-4ea4-ab06-6190120ba805" width="500px">
+
+### Project 13. NLP
+- 자연어 처리를 활용한 가짜 뉴스 분석
+<img src="https://github.com/user-attachments/assets/946ce541-55ee-47f0-bb5f-dd43b7172d1e" width="500px">
+
+### Project 14. 프로젝트 방법론
+- 핫플레이스 검색 및 추천 시스템 개발 결과 보고
+<img src="https://github.com/user-attachments/assets/76e0621f-8994-47b9-94a3-442ccf56d303" width="500px">
+
+### Project 15. 기업연계 프로젝트(T3Q)
+- 
 
 
 
