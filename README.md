@@ -44,7 +44,7 @@
 
 ### Project 11. Machine Learning
 - 머신러닝 예제 실습
-- <img src="https://github.com/user-attachments/assets/a5ebd35e-1ae8-4428-a7dd-ae83b4377eda" width="500px">
+<img src="https://github.com/user-attachments/assets/a5ebd35e-1ae8-4428-a7dd-ae83b4377eda" width="500px">
 
 ### Project 12. Deep Learning
 - 딥러닝을 활용한 KMNIST 중세 일본어 문자 인식
