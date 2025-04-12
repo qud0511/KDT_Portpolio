@@ -20,7 +20,7 @@
 
 ### Project 5. SQL
 - DBeaver를 활용한 국민건강보험공단 치매의료이용률 분석
-  <img src="https://github.com/user-attachments/assets/d9eed463-e72b-4995-a530-2242cfbe1b61" width="500px">
+  <img src="https://github.com/user-attachments/assets/a9a0e858-7953-4a8f-b04d-2495447fc071" width="500px">
 
 ### Project 6. 공공데이터 분석
 - 유가 변동에 따른 섬유산업, 석유화학의 영향 분석
