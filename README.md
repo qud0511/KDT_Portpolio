@@ -18,11 +18,45 @@
 - 유튜브 트렌드 분석(조회수, 구독자, 장르 등)
 <img src="https://github.com/user-attachments/assets/46c42368-48b7-4656-9e69-b437b53a8929" width="500px">
 
+### Project 5. SQL
+- 국민건강보험공단 치매의료이용률 분석
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/459c9984-a4ba-4eda-896a-1effd05f7ec2" width="500px" height="700px" style="object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/d9eed463-e72b-4995-a530-2242cfbe1b61" width="500px" height="700px" style="object-fit: cover;">
+</div>
+
+### Project 6. 
+- 
+<img src="" width="500px">
 
 
+
+
+### Project 
+- 
+<img src="" width="500px">
+
+### Project 
+- 
+<img src="" width="500px">
+
+### Project 
+- 
+<img src="" width="500px">
+
+### Project 
+- 
+<img src="" width="500px">
 
 
 ### Project 10. Tableau [링크](https://public.tableau.com/app/profile/.54344548/viz/10_16617472043020/1_1)
 - 동물보호관리시스템 현황 분석(동물복지산업, 동물치료소)
 <img src="https://github.com/user-attachments/assets/3183d423-d1e6-471d-adb7-eec21b178f5a" width="500px">
+
+### Project 12. Deep Learning
+- 딥러닝을 활용한 KMNIST 중세 일본어 문자 인식
+<img src="https://github.com/user-attachments/assets/06656556-0c13-4ea4-ab06-6190120ba805" width="500px">
+
+
+
 
